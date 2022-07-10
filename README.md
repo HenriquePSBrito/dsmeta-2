@@ -1,2 +1,2 @@
-# dsmeta
-Projeto DSMETA com a orientação da DevSuperior
+# Projeto DsMeta - React - CSS - SPRING BOOT
+Projeto DSMETA desenvolvido com a orientação da DevSuperior
